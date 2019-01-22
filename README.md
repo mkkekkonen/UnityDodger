@@ -2,6 +2,6 @@
 
 A game made with Unity, using UnityScript.
 
-YouTube:
+YouTube (click on the image):
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XhGz2-6aYVg/0.jpg)](https://www.youtube.com/watch?v=XhGz2-6aYVg)
+[![YouTube link](https://img.youtube.com/vi/XhGz2-6aYVg/0.jpg)](https://www.youtube.com/watch?v=XhGz2-6aYVg)
